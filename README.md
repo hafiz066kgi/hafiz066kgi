@@ -308,15 +308,6 @@ Continual Improvement
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz066kgi&bg_color=transparent&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
 
 ---
 

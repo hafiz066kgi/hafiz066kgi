@@ -17,10 +17,6 @@
 # 👋 About Me
 
 ```yaml
-name: Mohammad Al Hafiz
-role: IMS Manager
-industry: Precision Plastic Injection Moulding
-
 specialization:
   - Integrated Management Systems
   - ISO Compliance
@@ -130,7 +126,7 @@ My focus is not only maintaining ISO compliance, but building systems that make 
 ```mermaid
 flowchart TD
 
-A[🏭 POLYPARTS SMART PORTAL]
+A[🏭 SMART PORTAL]
 
 A --> B[📄 Document Control]
 A --> C[🔍 Internal Audit]

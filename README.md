@@ -32,101 +32,223 @@ specialization:
 
 mission:
   "Transform management systems into practical digital solutions."
+```
 
 I work at the intersection of:
 
-🏭 Manufacturing + 📋 Management Systems + 💻 Technology
+🏭 **Manufacturing** + 📋 **Management Systems** + 💻 **Technology**
 
 My focus is not only maintaining ISO compliance, but building systems that make compliance:
 
-Smarter • Faster • Traceable • Data-Driven
+`Smarter` • `Faster` • `Traceable` • `Data-Driven`
 
-🏆 Management Systems
-<div align="center"> <img src="https://img.shields.io/badge/ISO%209001-QUALITY-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white"/> <img src="https://img.shields.io/badge/ISO%2014001-ENVIRONMENT-16A34A?style=for-the-badge&logo=leaflet&logoColor=white"/> <br> <img src="https://img.shields.io/badge/ISO%2045001-OH%26S-EA580C?style=for-the-badge&logo=probot&logoColor=white"/> <img src="https://img.shields.io/badge/ISO%2013485-MEDICAL%20DEVICE-7C3AED?style=for-the-badge&logo=mediamarkt&logoColor=white"/> <br> <img src="https://img.shields.io/badge/IECEx-EX%20PRODUCT-F59E0B?style=for-the-badge&logo=lightning&logoColor=black"/> <img src="https://img.shields.io/badge/IMS-INTEGRATED%20SYSTEM-0891B2?style=for-the-badge&logo=target&logoColor=white"/> </div>
-⚡ What I Do
-<table> <tr> <td width="50%" valign="top">
-📋 Integrated Management System
-ISO 9001
-ISO 14001
-ISO 13485
-ISO 45001
-IECEx
-Internal Audit
-Management Review
-Risk & Opportunity
-Corrective Action
-Document Control
-</td> <td width="50%" valign="top">
-💻 Digital Transformation
-Digital IMS
-Smart Portal
-Audit Management
-Document Control System
-ESG Dashboard
-CO₂ Tracking
-QR Document Control
-KPI Dashboard
-Workflow Automation
-PDF Reporting
-</td> </tr> </table>
-💻 Technology Stack
+---
+
+## 🏆 Management Systems
+
 <div align="center">
-Core Development
+
+<img src="https://img.shields.io/badge/ISO%209001-QUALITY-2563EB?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/ISO%2014001-ENVIRONMENT-16A34A?style=for-the-badge&logo=leaflet&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/ISO%2045001-OH%26S-EA580C?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/ISO%2013485-MEDICAL%20DEVICE-7C3AED?style=for-the-badge&logo=mediamarkt&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/IECEx-EX%20PRODUCT-F59E0B?style=for-the-badge&logo=lightning&logoColor=black"/>
+<img src="https://img.shields.io/badge/IMS-INTEGRATED%20SYSTEM-0891B2?style=for-the-badge&logo=target&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Integrated Management System
+
+- ISO 9001
+- ISO 14001
+- ISO 13485
+- ISO 45001
+- IECEx
+- Internal Audit
+- Management Review
+- Risk & Opportunity
+- Corrective Action
+- Document Control
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Digital Transformation
+
+- Digital IMS
+- Smart Portal
+- Audit Management
+- Document Control System
+- ESG Dashboard
+- CO₂ Tracking
+- QR Document Control
+- KPI Dashboard
+- Workflow Automation
+- PDF Reporting
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Technology Stack
+
+<div align="center">
+
+### Core Development
+
 <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,jquery,bootstrap"/>
 
 <br><br>
 
-Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/> </div>
-🚀 Digital IMS Ecosystem
-🧩 Systems & Projects
-<table> <tr> <td width="50%">
-🏭 Smart Portal
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+## 🚀 Digital IMS Ecosystem
+
+```mermaid
+flowchart TD
+
+A[🏭 POLYPARTS SMART PORTAL]
+
+A --> B[📄 Document Control]
+A --> C[🔍 Internal Audit]
+A --> D[⚠️ Risk Management]
+A --> E[🦺 Safety & Health]
+A --> F[🌱 ESG]
+A --> G[📊 KPI Dashboard]
+A --> H[🎓 Training]
+A --> I[🔧 CAPA]
+
+B --> B1[Revision Control]
+B --> B2[QR Verification]
+
+C --> C1[Audit Planning]
+C --> C2[NCR]
+
+D --> D1[Risk Register]
+D --> D2[Opportunity]
+
+E --> E1[HIRARC]
+E --> E2[Incident]
+
+F --> F1[CO₂]
+F --> F2[Energy]
+F --> F3[Waste]
+
+G --> G1[Management Review]
+```
+
+---
+
+## 🧩 Systems & Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏭 Smart Portal
 
 Central internal manufacturing and IMS platform.
 
-PHP MySQL AJAX Bootstrap
+`PHP` `MySQL` `AJAX` `Bootstrap`
 
-</td> <td width="50%">
-📄 Digital Document Control
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 Digital Document Control
 
 Controlled documents, revision history, approvals and QR verification.
 
-Workflow PDF QR
+`Workflow` `PDF` `QR`
 
-</td> </tr> <tr> <td width="50%">
-🔍 Audit Management
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔍 Audit Management
 
 Audit schedule, checklist, findings, NCR and corrective action.
 
-ISO Clause CAPA RCA
+`ISO Clause` `CAPA` `RCA`
 
-</td> <td width="50%">
-🌱 ESG Dashboard
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 ESG Dashboard
 
 Environmental KPI and carbon monitoring.
 
-CO₂ Energy Water Waste
+`CO₂` `Energy` `Water` `Waste`
 
-</td> </tr> <tr> <td width="50%">
-🦺 OSH Management
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🦺 OSH Management
 
 Digital occupational safety and health management.
 
-HIRARC Incident Inspection
+`HIRARC` `Incident` `Inspection`
 
-</td> <td width="50%">
-📊 KPI Dashboard
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 KPI Dashboard
 
 Management-level operational performance monitoring.
 
-KPI Trend Decision
+`KPI` `Trend` `Decision`
 
-</td> </tr> </table>
-🧠 IMS Philosophy
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 IMS Philosophy
+
 <div align="center">
-Compliance should create value — not paperwork.
+
+### Compliance should create value — not paperwork.
+
 </div>
+
+```text
 ISO Requirement
       │
       ▼
@@ -146,52 +268,90 @@ Management Decision
       │
       ▼
 Continual Improvement
-🎯 Areas of Expertise
+```
+
+---
+
+## 🎯 Areas of Expertise
+
 <div align="center">
 
-IMS Governance
-
-ISO Compliance
-
-Internal Auditing
-
-Risk Based Thinking
-
-CAPA
-
-Document Control
-
-Management Review
-
-ESG
-
-Occupational Safety
-
-Manufacturing
-
-Digital IMS
-
-Software Development
-
-</div>
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=hafiz066kgi&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz066kgi&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/> </div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz066kgi&theme=transparent&hide_border=true"/> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz066kgi&bg_color=transparent&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"/> </div>
-🌐 Current Direction
-<div align="center">
-Building the next generation of
-DIGITAL IMS
-
-Quality × Safety × Environment × Technology
-
-<br> <img src="https://img.shields.io/badge/Manufacturing-Digitalization-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/IMS-Automation-0891B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data-Driven-16A34A?style=for-the-badge"/> </div>
-<div align="center">
-💡 From Compliance → Control → Data → Decision
-<br>
-
-⭐ Building smarter systems for manufacturing excellence.
+`IMS Governance` • `ISO Compliance` • `Internal Auditing` • `Risk Based Thinking`
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"/> </div> ```
+`CAPA` • `Document Control` • `Management Review` • `ESG`
+
+<br><br>
+
+`Occupational Safety` • `Manufacturing` • `Digital IMS` • `Software Development`
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hafiz066kgi&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz066kgi&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz066kgi&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz066kgi&bg_color=transparent&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Current Direction
+
+<div align="center">
+
+### Building the next generation of
+
+# DIGITAL IMS
+
+**Quality × Safety × Environment × Technology**
+
+<br>
+
+<img src="https://img.shields.io/badge/Manufacturing-Digitalization-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IMS-Automation-0891B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data-Driven-16A34A?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 From Compliance → Control → Data → Decision
+
+<br>
+
+⭐ **Building smarter systems for manufacturing excellence.**
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1D4ED8,100:06B6D4"/>
+
+</div>

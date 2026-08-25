@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=MOHAMMAD%20AL%20HAFIZ&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IMS%20Manager%20%7C%20IT%20%7C%20Digital%20Transformation&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=hafiz066kgi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IMS%20Manager%20%7C%20IT%20%7C%20Digital%20Transformation&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Integrated+Management+Systems;ISO+9001+%7C+14001+%7C+13485+%7C+45001;Manufacturing+Digital+Transformation;PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap;Turning+Compliance+Into+Digital+Solutions" />
 

@@ -240,56 +240,6 @@ Management-level operational performance monitoring.
 
 ---
 
-## 🧠 IMS Philosophy
-
-<div align="center">
-
-### Compliance should create value — not paperwork.
-
-</div>
-
-```text
-ISO Requirement
-      │
-      ▼
-Process Control
-      │
-      ▼
-Risk Management
-      │
-      ▼
-Data & Evidence
-      │
-      ▼
-Digital System
-      │
-      ▼
-Management Decision
-      │
-      ▼
-Continual Improvement
-```
-
----
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-`IMS Governance` • `ISO Compliance` • `Internal Auditing` • `Risk Based Thinking`
-
-<br><br>
-
-`CAPA` • `Document Control` • `Management Review` • `ESG`
-
-<br><br>
-
-`Occupational Safety` • `Manufacturing` • `Digital IMS` • `Software Development`
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">

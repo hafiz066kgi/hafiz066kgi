@@ -244,16 +244,6 @@ Management-level operational performance monitoring.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hafiz066kgi&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiz066kgi&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiz066kgi&theme=transparent&hide_border=true"/>
 
 </div>
